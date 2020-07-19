@@ -7,8 +7,9 @@
 
 ## Ch.2 Parsing
 ### The Parser
-- top-down parsing 
-- bottom-up parsing
+- ast에 struct 정의 및 expressiong 인터페이스 구현 
+- parsing 함수 구현 & parser에 register
+### type
 - integer
 - indentifier
 - infix / prefix
@@ -17,3 +18,4 @@
 - grouped expression
 - if 
 - function
+- call
