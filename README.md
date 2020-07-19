@@ -9,3 +9,11 @@
 ### The Parser
 - top-down parsing 
 - bottom-up parsing
+- integer
+- indentifier
+- infix / prefix
+- precedence
+- boolean
+- grouped expression
+- if 
+- function
